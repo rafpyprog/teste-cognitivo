@@ -1,4 +1,4 @@
-# Teste Congnitivo.ai
+# Teste Cognitivo.ai
 
 # Requerimentos
 * Python >= 3.6 
